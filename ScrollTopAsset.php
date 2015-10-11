@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class ScrollTopAsset extends AssetBundle
 {
-    public $sourcePath = '@bluezed/scrollTop/assets';
+    public $sourcePath = '@ziggizag/scrollTop/assets';
     public $css = [
         'css/scroll-top.css',
     ];
