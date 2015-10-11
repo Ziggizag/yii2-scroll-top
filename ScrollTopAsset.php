@@ -5,7 +5,7 @@
  * @license   https://github.com/bluezed/yii2-scroll-top/blob/master/LICENSE
  */
 
-namespace bluezed\scrollTop;
+namespace ziggizag\scrollTop;
 
 use yii\web\AssetBundle;
 
