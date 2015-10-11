@@ -1,6 +1,6 @@
 {
     "name": "ziggizag/yii2-scroll-top",
-    "description": "This Yii 2 widget adds a simple scroll-to-top button to your site.",
+    "description": "This Yii 2 widget adds a simple scroll-to-top button to your site. Modyfied.",
     "keywords": ["yii2", "extension", "scroll", "top", "scroll-to", "scroll-to-top", "button"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Thomas Geppert",
-            "email": "bluezed.apps@gmail.com"
+            "name": "Zbigniew Szczesny, Thomas Geppert",
+            "email": "ziggi@ziggi.pl, bluezed.apps@gmail.com"
         }
     ],
     "require": {
